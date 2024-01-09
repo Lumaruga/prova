@@ -2,7 +2,6 @@
 <html>
     <head>
         <title>prova</title>
-        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <div>
